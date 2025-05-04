@@ -9,11 +9,17 @@ unzip mpj.zip -d mpj
 Your project should look like this:
 
 DistributedSumProject/
+
 ├── mpj/                     ← Contains extracted mpj-v0_44
+
 │   └── mpj-v0_44/
+
 ├── src/
+
 │   └── DistributedSum.java
+
 └── run.sh                   ← (You’ll create this script to run your program)
+
 
 
 ---
